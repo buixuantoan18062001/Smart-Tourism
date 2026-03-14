@@ -190,16 +190,6 @@ Các tính năng có thể phát triển thêm trong tương lai:
 * Giao diện mobile responsive
 * Tối ưu tuyến đường du lịch
 
----
-
-# 👨‍💻 Author
-
-**Bùi Xuân Toàn**
-
-Student Project – Smart Tourism System
-
----
-
 # 📄 License
 
 This project is developed for **educational purposes**.
