@@ -1,5 +1,3 @@
-﻿# Smart-Tourism
-
  # 🌍 Smart Tourism AI
 
 **Smart Tourism AI** là hệ thống hỗ trợ du lịch thông minh giúp người dùng khám phá địa điểm, lập kế hoạch chuyến đi và tìm đường giữa các địa điểm du lịch một cách trực quan.
