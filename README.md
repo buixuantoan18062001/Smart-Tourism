@@ -4,6 +4,10 @@
 
 [![Demo](https://img.youtube.com/vi/qXUGI0o7Tt0/0.jpg)](https://www.youtube.com/watch?v=qXUGI0o7Tt0)
 
+AI:
+
+[![Demo](https://img.youtube.com/vi/N_L8CLQ2AZ0/0.jpg)](https://www.youtube.com/watch?v=N_L8CLQ2AZ0)
+
 ## Công nghệ sử dụng
 
 - C#
