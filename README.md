@@ -1,5 +1,7 @@
  # 🌍 Smart Tourism AI
 
+[![Watch the video](https://img.youtube.com/vi/qXUGI0o7Tt0/0.jpg)](https://www.youtube.com/watch?v=qXUGI0o7Tt0)
+
 **Smart Tourism AI** là hệ thống hỗ trợ du lịch thông minh giúp người dùng khám phá địa điểm, lập kế hoạch chuyến đi và tìm đường giữa các địa điểm du lịch một cách trực quan.
 
 Ứng dụng tích hợp **Google Maps API**, **Weather API** và **JavaScript** để tạo trải nghiệm du lịch thông minh, hỗ trợ người dùng xây dựng lịch trình phù hợp với nhu cầu cá nhân.
